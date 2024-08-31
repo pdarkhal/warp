@@ -1,3 +1,2 @@
-warp://188.114.97.93:7152/?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#1
-warp://188.114.99.103:1018/?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#2
-warp://162.159.195.161:3854/?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#3&&detour=warp://162.159.195.161:3854/?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#Game
+warp://162.159.192.59:8319/?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#S1&&detour=warp://162.159.192.59:8319/?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#GAME1
+warp://188.114.99.182:7152/?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#S2&&detour=warp://188.114.99.182:7152/?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#GAME2
